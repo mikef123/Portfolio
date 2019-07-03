@@ -178,8 +178,8 @@ p {
 }
 
 .image.banking {
-    height: 47px;
-    width: 54px;
+    height: 3rem;
+    width: 3rem;
     justify-items: center;
     align-items: center;
     padding-top: 16px;
@@ -321,5 +321,12 @@ p {
     }
     .button {
         width: auto;
+    }
+    .image.banking {
+        height: 1.3rem;
+        width: 1.3rem;
+        justify-items: center;
+        align-items: center;
+        padding-top: 16px;
     }
 }

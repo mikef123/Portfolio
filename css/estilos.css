@@ -291,8 +291,8 @@ p {
         font-size: .9em;
     }
     h4 {
-        font-size: .2em;
-        box-sizing: content-box
+        box-sizing: content-box;
+        padding: 0;
     }
     h3 {
         font-size: .5em;
@@ -327,6 +327,6 @@ p {
         width: 1.3rem;
         justify-items: center;
         align-items: center;
-        padding-top: 16px;
+        padding-top: 0;
     }
 }

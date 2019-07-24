@@ -103,7 +103,7 @@ body {
     grid-area: image5;
 }
 
-.image recargado {
+.image messenger {
     grid-area: image6;
 }
 
@@ -178,8 +178,27 @@ p {
 }
 
 .image.banking {
-    height: 3rem;
-    width: 3rem;
+    border-radius: 50%;
+    height: 2.7rem;
+    width: 3.2em;
+    justify-items: center;
+    align-items: center;
+    padding-top: 16px;
+}
+
+.image.messenger {
+    border-radius: 50%;
+    height: 2.7rem;
+    width: 3.2em;
+    justify-items: center;
+    align-items: center;
+    padding-top: 16px;
+}
+
+.image.music {
+    border-radius: 50%;
+    height: 2.7rem;
+    width: 3.2em;
     justify-items: center;
     align-items: center;
     padding-top: 16px;

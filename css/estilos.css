@@ -348,4 +348,18 @@ p {
         align-items: center;
         padding-top: 0;
     }
+    .image.messenger {
+        height: 1.3rem;
+        width: 1.3rem;
+        justify-items: center;
+        align-items: center;
+        padding-top: 0;
+    }
+    .image.music {
+        height: 1.3rem;
+        width: 1.3rem;
+        justify-items: center;
+        align-items: center;
+        padding-top: 0;
+    }
 }
